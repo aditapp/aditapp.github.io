@@ -1,2 +1,2 @@
 # aditapp.github.io
-Website
+Website for the app adit. Coming Soon!
